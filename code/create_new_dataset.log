@@ -1,0 +1,97 @@
+[11:54:14] {/tmp/ipykernel_543411/1591168251.py:23} INFO - /home/aubrey/datasets/Guam07v3 already exists in YOLOv5 format
+[11:54:16] {/tmp/ipykernel_543411/1591168251.py:31} INFO - FiftyOne dataset "Guam07v3" already exists
+[11:55:19] {/tmp/ipykernel_543411/1591168251.py:23} INFO - /home/aubrey/datasets/Guam07v3 already exists in YOLOv5 format
+[11:55:19] {/tmp/ipykernel_543411/1591168251.py:31} INFO - FiftyOne dataset "Guam07v3" already exists
+[11:55:42] {/tmp/ipykernel_543411/2807420825.py:23} INFO - /home/aubrey/datasets/Guam07v3 already exists in YOLOv5 format
+[11:55:42] {/tmp/ipykernel_543411/2807420825.py:31} INFO - FiftyOne dataset "Guam07v3" already exists
+[11:55:42] {/tmp/ipykernel_543411/2807420825.py:48} INFO - Loading FiftyOne dataset "Guam07v3"
+[11:55:42] {/tmp/ipykernel_543411/2807420825.py:50} INFO - Name:        Guam07v3
+Media type:  image
+Num samples: 10414
+Persistent:  True
+Tags:        []
+Sample fields:
+    id:               fiftyone.core.fields.ObjectIdField
+    filepath:         fiftyone.core.fields.StringField
+    tags:             fiftyone.core.fields.ListField(fiftyone.core.fields.StringField)
+    metadata:         fiftyone.core.fields.EmbeddedDocumentField(fiftyone.core.metadata.ImageMetadata)
+    created_at:       fiftyone.core.fields.DateTimeField
+    last_modified_at: fiftyone.core.fields.DateTimeField
+    ground_truth:     fiftyone.core.fields.EmbeddedDocumentField(fiftyone.core.labels.Detections)
+    timestamp:        fiftyone.core.fields.DateTimeField
+[11:55:42] {/tmp/ipykernel_543411/2807420825.py:51} INFO - Launching FifyOne app in browser
+[11:55:45] {/home/aubrey/datasets/dataset5/CRB-Damage-Dataset-Improvement/.venv/lib/python3.10/site-packages/fiftyone/core/session/session.py:213} INFO - Session launched. Run `session.show()` to open the App in a cell output.
+[11:55:45] {/tmp/ipykernel_543411/2807420825.py:55} INFO - FINISHED
+[12:04:00] {/tmp/ipykernel_543411/2807420825.py:23} INFO - /home/aubrey/datasets/Guam07v3 already exists in YOLOv5 format
+[12:04:00] {/tmp/ipykernel_543411/2807420825.py:31} INFO - FiftyOne dataset "Guam07v3" already exists
+[12:04:00] {/tmp/ipykernel_543411/2807420825.py:48} INFO - Loading FiftyOne dataset "Guam07v3"
+[12:04:00] {/tmp/ipykernel_543411/2807420825.py:50} INFO - Name:        Guam07v3
+Media type:  image
+Num samples: 10414
+Persistent:  True
+Tags:        []
+Sample fields:
+    id:               fiftyone.core.fields.ObjectIdField
+    filepath:         fiftyone.core.fields.StringField
+    tags:             fiftyone.core.fields.ListField(fiftyone.core.fields.StringField)
+    metadata:         fiftyone.core.fields.EmbeddedDocumentField(fiftyone.core.metadata.ImageMetadata)
+    created_at:       fiftyone.core.fields.DateTimeField
+    last_modified_at: fiftyone.core.fields.DateTimeField
+    ground_truth:     fiftyone.core.fields.EmbeddedDocumentField(fiftyone.core.labels.Detections)
+    timestamp:        fiftyone.core.fields.DateTimeField
+[12:04:00] {/tmp/ipykernel_543411/2807420825.py:51} INFO - Launching FifyOne app in browser
+[12:04:00] {/home/aubrey/datasets/dataset5/CRB-Damage-Dataset-Improvement/.venv/lib/python3.10/site-packages/fiftyone/core/session/session.py:213} INFO - Session launched. Run `session.show()` to open the App in a cell output.
+[12:04:00] {/tmp/ipykernel_543411/2807420825.py:55} INFO - FINISHED
+[16:06:56] {/tmp/ipykernel_764359/131512657.py:22} INFO - Updating "requirements.txt"
+[16:06:57] {/tmp/ipykernel_764359/131512657.py:28} INFO - /home/aubrey/datasets/Guam07v3 already exists in YOLOv5 format
+[16:06:59] {/tmp/ipykernel_764359/131512657.py:36} INFO - FiftyOne dataset "Guam07v3" already exists
+[16:10:59] {/tmp/ipykernel_764359/2913257992.py:22} INFO - Updating "requirements.txt"
+[16:10:59] {/tmp/ipykernel_764359/2913257992.py:28} INFO - /home/aubrey/datasets/Guam07v3 already exists in YOLOv5 format
+[16:10:59] {/tmp/ipykernel_764359/2913257992.py:36} INFO - FiftyOne dataset "Guam07v3" already exists
+[16:10:59] {/tmp/ipykernel_764359/2913257992.py:43} INFO - Loading FiftyOne dataset "Guam07v3"
+[16:11:00] {/tmp/ipykernel_764359/2913257992.py:49} INFO - "timestamp" field already exists
+[16:11:00] {/tmp/ipykernel_764359/2913257992.py:56} INFO - Creating embeddings field
+[16:17:31] {/home/aubrey/datasets/dataset5/CRB-Damage-Dataset-Improvement/.venv/lib/python3.10/site-packages/eta/core/utils.py:1988} INFO -  100% |█████████████| 10414/10414 [6.5m elapsed, 0s remaining, 26.4 samples/s]       
+[16:17:31] {/tmp/ipykernel_764359/2913257992.py:61} INFO - Tagging autocorrelated images
+[16:44:50] {/tmp/ipykernel_764359/3185263372.py:22} INFO - Updating "requirements.txt"
+[16:44:51] {/tmp/ipykernel_764359/3185263372.py:28} INFO - /home/aubrey/datasets/Guam07v3 already exists in YOLOv5 format
+[16:44:51] {/tmp/ipykernel_764359/3185263372.py:36} INFO - FiftyOne dataset "Guam07v3" already exists
+[16:44:51] {/tmp/ipykernel_764359/3185263372.py:43} INFO - Loading FiftyOne dataset "Guam07v3"
+[16:44:51] {/tmp/ipykernel_764359/3185263372.py:49} INFO - "timestamp" field already exists
+[16:44:51] {/tmp/ipykernel_764359/3185263372.py:57} INFO - embeddings field already exists
+[16:44:51] {/tmp/ipykernel_764359/3185263372.py:64} INFO - Tagging autocorrelated images
+[16:49:22] {/tmp/ipykernel_764359/3185263372.py:22} INFO - Updating "requirements.txt"
+[16:49:22] {/tmp/ipykernel_764359/3185263372.py:28} INFO - /home/aubrey/datasets/Guam07v3 already exists in YOLOv5 format
+[16:49:22] {/tmp/ipykernel_764359/3185263372.py:36} INFO - FiftyOne dataset "Guam07v3" already exists
+[16:49:22] {/tmp/ipykernel_764359/3185263372.py:43} INFO - Loading FiftyOne dataset "Guam07v3"
+[16:49:22] {/tmp/ipykernel_764359/3185263372.py:49} INFO - "timestamp" field already exists
+[16:49:22] {/tmp/ipykernel_764359/3185263372.py:57} INFO - embeddings field already exists
+[16:49:22] {/tmp/ipykernel_764359/3185263372.py:64} INFO - Tagging autocorrelated images
+[16:49:40] {/tmp/ipykernel_764359/3185263372.py:69} INFO - Launching FifyOne app in browser
+[16:49:42] {/home/aubrey/datasets/dataset5/CRB-Damage-Dataset-Improvement/.venv/lib/python3.10/site-packages/fiftyone/core/session/session.py:213} INFO - Session launched. Run `session.show()` to open the App in a cell output.
+[16:49:42] {/tmp/ipykernel_764359/3185263372.py:72} INFO - FINISHED
+[17:06:02] - Updating "requirements.txt"
+[17:06:03] - /home/aubrey/datasets/Guam07v3 already exists in YOLOv5 format
+[17:06:05] - FiftyOne dataset "Guam07v3" already exists
+[17:06:05] - Loading FiftyOne dataset "Guam07v3"
+[17:06:05] - "timestamp" field already exists
+[17:11:09] - Updating "requirements.txt"
+[17:11:10] - /home/aubrey/datasets/Guam07v3 already exists in YOLOv5 format
+[17:11:10] - FiftyOne dataset "Guam07v3" already exists
+[17:11:10] - Loading FiftyOne dataset "Guam07v3"
+[17:11:10] - "timestamp" field already exists
+[17:11:10] - embeddings field already exists
+[17:11:10] - similarity_with_prev_img field already exists
+[17:11:10] - Launching FifyOne app in browser
+[17:11:12] - Session launched. Run `session.show()` to open the App in a cell output.
+[17:11:12] - FINISHED
+[17:15:44] - Updating "requirements.txt"
+[17:15:44] - /home/aubrey/datasets/Guam07v3 already exists in YOLOv5 format
+[17:15:44] - FiftyOne dataset "Guam07v3" already exists
+[17:15:44] - Loading FiftyOne dataset "Guam07v3"
+[17:15:44] - "timestamp" field already exists
+[17:15:44] - embeddings field already exists
+[17:15:44] - similarity_with_prev_img field already exists
+[17:15:44] - Launching FifyOne app in browser
+[17:15:44] - Session launched. Run `session.show()` to open the App in a cell output.
+[17:15:44] - FINISHED
