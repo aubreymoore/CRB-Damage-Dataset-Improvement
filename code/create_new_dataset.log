@@ -16,3 +16,351 @@ Selected samples: 0
 Selected labels:  0
 Session URL:      http://localhost:5151/
 2024-11-23 13:24:32 FINISHED
+2024-11-23 15:18:26 Updating "requirements.txt"
+2024-11-23 15:18:27 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-23 15:18:27 FiftyOne dataset "Guam07v3" already exists
+2024-11-23 15:18:27 Loading FiftyOne dataset "Guam07v3"
+2024-11-23 15:18:27 "timestamp" field already exists
+2024-11-23 15:18:27 "embeddings" field already exists
+2024-11-23 15:18:27 "similarity_with_prev_img" field already exists
+2024-11-23 15:18:27 "yolov8" field already exists
+2024-11-23 15:18:27 "mistakenness" field already exists
+2024-11-23 15:18:27 Launching FifyOne app in browser
+2024-11-23 15:18:27 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-23 15:18:27 Dataset:          Guam07v3
+Media type:       image
+Num samples:      10414
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-23 15:18:27 FINISHED
+2024-11-24 07:06:14 Updating "requirements.txt"
+2024-11-24 07:06:14 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 07:06:16 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 07:06:16 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 07:06:16 "timestamp" field already exists
+2024-11-24 07:06:16 "embeddings" field already exists
+2024-11-24 07:06:16 "similarity_with_prev_img" field already exists
+2024-11-24 07:06:16 "yolov8" field already exists
+2024-11-24 07:06:16 "mistakenness" field already exists
+2024-11-24 07:06:16 Launching FifyOne app in browser
+2024-11-24 07:06:18 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-24 07:06:18 Dataset:          Guam07v3
+Media type:       image
+Num samples:      10414
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-24 07:06:18 FINISHED
+2024-11-24 09:16:14 Updating "requirements.txt"
+2024-11-24 09:16:15 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 09:16:16 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 09:16:16 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 09:16:16 "timestamp" field already exists
+2024-11-24 09:16:16 "embeddings" field already exists
+2024-11-24 09:16:16 "similarity_with_prev_img" field already exists
+2024-11-24 09:16:16 "yolov8" field already exists
+2024-11-24 09:16:16 "mistakenness" field already exists
+2024-11-24 09:16:16 Creating "autocorrelated_images_view"
+2024-11-24 09:16:16 With a threshold of 0.98, 1455 autocorrelated images were found
+2024-11-24 09:16:16 Launching FifyOne app in browser
+2024-11-24 09:16:19 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-24 09:16:19 Dataset:          Guam07v3
+Media type:       image
+Num samples:      10414
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-24 09:16:19 FINISHED
+2024-11-24 10:23:48 Updating "requirements.txt"
+2024-11-24 10:23:48 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 10:23:50 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 10:23:50 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 10:23:50 "timestamp" field already exists
+2024-11-24 10:23:50 "embeddings" field already exists
+2024-11-24 10:23:50 "similarity_with_prev_img" field already exists
+2024-11-24 10:23:50 "yolov8" field already exists
+2024-11-24 10:23:50 "mistakenness" field already exists
+2024-11-24 10:23:50 Creating "bb_touching_edge_view"
+2024-11-24 10:24:54 Updating "requirements.txt"
+2024-11-24 10:24:55 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 10:24:55 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 10:24:55 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 10:24:55 "timestamp" field already exists
+2024-11-24 10:24:55 "embeddings" field already exists
+2024-11-24 10:24:55 "similarity_with_prev_img" field already exists
+2024-11-24 10:24:55 "yolov8" field already exists
+2024-11-24 10:24:55 "mistakenness" field already exists
+2024-11-24 10:24:55 Creating "bb_touching_edge_view"
+2024-11-24 10:27:26 Updating "requirements.txt"
+2024-11-24 10:27:27 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 10:27:27 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 10:27:27 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 10:27:27 "timestamp" field already exists
+2024-11-24 10:27:27 "embeddings" field already exists
+2024-11-24 10:27:27 "similarity_with_prev_img" field already exists
+2024-11-24 10:27:27 "yolov8" field already exists
+2024-11-24 10:27:27 "mistakenness" field already exists
+2024-11-24 10:27:27 Creating "bb_touching_edge_view"
+2024-11-24 10:27:27 4400 ground truth bounding boxes touching image edges were found
+2024-11-24 10:27:27 Creating "autocorrelated_images_view"
+2024-11-24 10:27:27 With a threshold of 0.98, 1455 autocorrelated images were found
+2024-11-24 10:27:27 Launching FifyOne app in browser
+2024-11-24 10:27:30 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-24 10:27:30 Dataset:          Guam07v3
+Media type:       image
+Num samples:      10414
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-24 10:27:30 FINISHED
+2024-11-24 14:11:32 Updating "requirements.txt"
+2024-11-24 14:11:33 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 14:11:35 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 14:11:35 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 14:11:35 "timestamp" field already exists
+2024-11-24 14:11:35 "embeddings" field already exists
+2024-11-24 14:11:35 "similarity_with_prev_img" field already exists
+2024-11-24 14:11:35 "yolov8" field already exists
+2024-11-24 14:11:35 "mistakenness" field already exists
+2024-11-24 14:11:35 Creating "bb_touching_edge_view"
+2024-11-24 14:11:35 -- "DELETE_BBS_TOUCHING_EDGES" is False; bbs will not be deleted
+2024-11-24 14:13:51 Updating "requirements.txt"
+2024-11-24 14:13:52 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 14:13:52 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 14:13:52 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 14:13:52 "timestamp" field already exists
+2024-11-24 14:13:52 "embeddings" field already exists
+2024-11-24 14:13:52 "similarity_with_prev_img" field already exists
+2024-11-24 14:13:52 "yolov8" field already exists
+2024-11-24 14:13:52 "mistakenness" field already exists
+2024-11-24 14:13:52 Creating "bb_touching_edge_view"
+2024-11-24 14:13:52 -- "DELETE_BBS_TOUCHING_EDGES" is False; bbs will not be deleted
+2024-11-24 14:13:52 -- 4400 ground truth bounding boxes touching image edges were found
+2024-11-24 14:13:52 Creating "autocorrelated_images_view"
+2024-11-24 14:13:52 With a threshold of 0.98, 1455 autocorrelated images were found
+2024-11-24 14:13:52 Launching FifyOne app in browser
+2024-11-24 14:13:54 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-24 14:13:54 Dataset:          Guam07v3
+Media type:       image
+Num samples:      10414
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-24 14:13:54 FINISHED
+2024-11-24 14:14:54 Updating "requirements.txt"
+2024-11-24 14:14:54 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 14:14:54 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 14:14:54 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 14:14:54 "timestamp" field already exists
+2024-11-24 14:14:54 "embeddings" field already exists
+2024-11-24 14:14:54 "similarity_with_prev_img" field already exists
+2024-11-24 14:14:54 "yolov8" field already exists
+2024-11-24 14:14:54 "mistakenness" field already exists
+2024-11-24 14:14:54 Creating "bb_touching_edge_view"
+2024-11-24 14:14:54 -- "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-24 14:14:54 -- 4400 ground truth bounding boxes touching image edges were found
+2024-11-24 14:14:54 Creating "autocorrelated_images_view"
+2024-11-24 14:14:54 With a threshold of 0.98, 1455 autocorrelated images were found
+2024-11-24 14:14:54 Launching FifyOne app in browser
+2024-11-24 14:14:54 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-24 14:14:54 Dataset:          Guam07v3
+Media type:       image
+Num samples:      10414
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-24 14:14:54 FINISHED
+2024-11-24 14:24:44 Updating "requirements.txt"
+2024-11-24 14:24:44 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 14:24:44 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 14:24:44 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 14:24:44 "timestamp" field already exists
+2024-11-24 14:24:44 "embeddings" field already exists
+2024-11-24 14:24:44 "similarity_with_prev_img" field already exists
+2024-11-24 14:24:44 "yolov8" field already exists
+2024-11-24 14:24:44 "mistakenness" field already exists
+2024-11-24 14:24:44 Creating "bb_touching_edge_view"
+2024-11-24 14:24:44 -- "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-24 14:24:45 -- 0 ground truth bounding boxes touching image edges were found
+2024-11-24 14:24:45 Creating "autocorrelated_images_view"
+2024-11-24 14:24:45 With a threshold of 0.98, 1455 autocorrelated images were found
+2024-11-24 14:24:45 Launching FifyOne app in browser
+2024-11-24 14:24:45 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-24 14:24:45 Dataset:          Guam07v3
+Media type:       image
+Num samples:      10414
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-24 14:24:45 FINISHED
+2024-11-24 15:08:24 Updating "requirements.txt"
+2024-11-24 15:08:25 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 15:08:26 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 15:08:26 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 15:08:26 "timestamp" field already exists
+2024-11-24 15:08:26 "embeddings" field already exists
+2024-11-24 15:08:26 "similarity_with_prev_img" field already exists
+2024-11-24 15:08:26 "yolov8" field already exists
+2024-11-24 15:08:26 "mistakenness" field already exists
+2024-11-24 15:08:26 Creating "bb_touching_edge_view"
+2024-11-24 15:08:26     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-24 15:08:26     0 ground truth bounding boxes touching image edges were found
+2024-11-24 15:08:26 Creating "autocorrelated_images_view"
+2024-11-24 15:08:26 With a threshold of 0.98, 1455 autocorrelated images were found
+2024-11-24 15:08:26 Launching FifyOne app in browser
+2024-11-24 15:08:29 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-24 15:08:29 Dataset:          Guam07v3
+Media type:       image
+Num samples:      10414
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-24 15:08:29 FINISHED
+2024-11-24 15:15:06 Updating "requirements.txt"
+2024-11-24 15:15:07 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 15:15:07 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 15:15:07 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 15:15:07 "timestamp" field already exists
+2024-11-24 15:15:07 "embeddings" field already exists
+2024-11-24 15:15:07 "similarity_with_prev_img" field already exists
+2024-11-24 15:15:07 "yolov8" field already exists
+2024-11-24 15:15:07 "mistakenness" field already exists
+2024-11-24 15:15:07 Creating "bb_touching_edge_view"
+2024-11-24 15:15:07     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-24 15:15:07     0 ground truth bounding boxes touching image edges were found
+2024-11-24 15:15:07 Creating "autocorrelated_images_view"
+2024-11-24 15:15:07     "DELETE_AUTOCORRELATED_IMAGES" is True; samples will be deleted
+2024-11-24 15:17:10 Updating "requirements.txt"
+2024-11-24 15:17:10 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 15:17:10 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 15:17:10 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 15:17:10 "timestamp" field already exists
+2024-11-24 15:17:10 "embeddings" field already exists
+2024-11-24 15:17:10 "similarity_with_prev_img" field already exists
+2024-11-24 15:17:10 "yolov8" field already exists
+2024-11-24 15:17:10 "mistakenness" field already exists
+2024-11-24 15:17:10 Creating "bb_touching_edge_view"
+2024-11-24 15:17:10     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-24 15:17:10     0 ground truth bounding boxes touching image edges were found
+2024-11-24 15:17:10 Creating "autocorrelated_images_view"
+2024-11-24 15:17:10     "DELETE_AUTOCORRELATED_IMAGES" is True; samples will be deleted
+2024-11-24 15:24:43 Updating "requirements.txt"
+2024-11-24 15:24:43 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 15:24:43 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 15:24:43 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 15:24:43 "timestamp" field already exists
+2024-11-24 15:24:43 "embeddings" field already exists
+2024-11-24 15:24:43 "similarity_with_prev_img" field already exists
+2024-11-24 15:24:43 "yolov8" field already exists
+2024-11-24 15:24:43 "mistakenness" field already exists
+2024-11-24 15:24:43 Creating "bb_touching_edge_view"
+2024-11-24 15:24:43     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-24 15:24:44     0 ground truth bounding boxes touching image edges were found
+2024-11-24 15:24:44 Creating "autocorrelated_images_view"
+2024-11-24 15:24:44     "DELETE_AUTOCORRELATED_IMAGES" is True; samples will be deleted
+2024-11-24 15:28:29 Updating "requirements.txt"
+2024-11-24 15:28:29 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 15:28:29 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 15:28:29 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 15:28:29 "timestamp" field already exists
+2024-11-24 15:28:29 "embeddings" field already exists
+2024-11-24 15:28:29 "similarity_with_prev_img" field already exists
+2024-11-24 15:28:29 "yolov8" field already exists
+2024-11-24 15:28:29 "mistakenness" field already exists
+2024-11-24 15:28:29 Creating "bb_touching_edge_view"
+2024-11-24 15:28:29     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-24 15:28:29     0 ground truth bounding boxes touching image edges were found
+2024-11-24 15:28:29 Creating "autocorrelated_images_view"
+2024-11-24 15:28:29     "DELETE_AUTOCORRELATED_IMAGES" is True; samples will be deleted
+2024-11-24 15:39:21 Updating "requirements.txt"
+2024-11-24 15:39:21 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 15:39:21 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 15:39:21 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 15:39:21 "timestamp" field already exists
+2024-11-24 15:39:21 "embeddings" field already exists
+2024-11-24 15:39:21 "similarity_with_prev_img" field already exists
+2024-11-24 15:39:21 "yolov8" field already exists
+2024-11-24 15:39:21 "mistakenness" field already exists
+2024-11-24 15:39:21 Creating "bb_touching_edge_view"
+2024-11-24 15:39:21     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-24 15:39:22     0 ground truth bounding boxes touching image edges were found
+2024-11-24 15:39:22 Creating "autocorrelated_images_view"
+2024-11-24 15:39:22     "DELETE_AUTOCORRELATED_IMAGES" is True; samples will be deleted
+2024-11-24 15:56:31 Updating "requirements.txt"
+2024-11-24 15:56:31 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 15:56:33 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 15:56:33 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 15:56:33 "timestamp" field already exists
+2024-11-24 15:56:33 "embeddings" field already exists
+2024-11-24 15:56:33 "similarity_with_prev_img" field already exists
+2024-11-24 15:56:33 "yolov8" field already exists
+2024-11-24 15:56:33 "mistakenness" field already exists
+2024-11-24 15:56:33 Creating "bb_touching_edge_view"
+2024-11-24 15:56:33     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-24 15:56:34     0 ground truth bounding boxes touching image edges were found
+2024-11-24 15:56:34 Creating "autocorrelated_images_view"
+2024-11-24 15:56:34     "DELETE_AUTOCORRELATED_IMAGES" is True; samples will be deleted
+2024-11-24 15:56:34 With a threshold of 0.98, 0 autocorrelated images were found
+2024-11-24 15:56:34 Launching FifyOne app in browser
+2024-11-24 15:56:36 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-24 15:56:36 Dataset:          Guam07v3
+Media type:       image
+Num samples:      8959
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-24 15:56:36 FINISHED
+2024-11-24 16:23:20 Updating "requirements.txt"
+2024-11-24 16:23:20 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 16:23:22 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 16:23:22 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 16:23:29 Ground truth bounding boxes: 14807
+2024-11-24 16:23:29 "timestamp" field already exists
+2024-11-24 16:23:29 "embeddings" field already exists
+2024-11-24 16:23:29 "similarity_with_prev_img" field already exists
+2024-11-24 16:23:29 "yolov8" field already exists
+2024-11-24 16:23:29 "mistakenness" field already exists
+2024-11-24 16:23:29 Creating "bb_touching_edge_view"
+2024-11-24 16:23:29     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-24 16:23:29     0 ground truth bounding boxes touching image edges were found
+2024-11-24 16:23:29 Creating "autocorrelated_images_view"
+2024-11-24 16:23:29     "DELETE_AUTOCORRELATED_IMAGES" is True; samples will be deleted
+2024-11-24 16:23:29 With a threshold of 0.98, 0 autocorrelated images were found
+2024-11-24 16:23:29 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 16:23:35 Ground truth bounding boxes: 14807
+2024-11-24 16:23:35 Launching FifyOne app in browser
+2024-11-24 16:23:38 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-24 16:23:38 Dataset:          Guam07v3
+Media type:       image
+Num samples:      8959
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-24 16:24:42 Updating "requirements.txt"
+2024-11-24 16:24:42 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-24 16:24:44 FiftyOne dataset "Guam07v3" already exists
+2024-11-24 16:24:44 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 16:24:51 Ground truth bounding boxes: 14807
+2024-11-24 16:24:51 "timestamp" field already exists
+2024-11-24 16:24:51 "embeddings" field already exists
+2024-11-24 16:24:51 "similarity_with_prev_img" field already exists
+2024-11-24 16:24:51 "yolov8" field already exists
+2024-11-24 16:24:51 "mistakenness" field already exists
+2024-11-24 16:24:51 Creating "bb_touching_edge_view"
+2024-11-24 16:24:51     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-24 16:24:51     0 ground truth bounding boxes touching image edges were found
+2024-11-24 16:24:51 Creating "autocorrelated_images_view"
+2024-11-24 16:24:51     "DELETE_AUTOCORRELATED_IMAGES" is True; samples will be deleted
+2024-11-24 16:24:51 With a threshold of 0.98, 0 autocorrelated images were found
+2024-11-24 16:24:51 Loading FiftyOne dataset "Guam07v3"
+2024-11-24 16:24:57 Ground truth bounding boxes: 14807
+2024-11-24 16:24:57 Launching FifyOne app in browser
+2024-11-24 16:25:00 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-24 16:25:00 Dataset:          Guam07v3
+Media type:       image
+Num samples:      8959
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-24 16:25:00 FINISHED
