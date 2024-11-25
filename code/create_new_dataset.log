@@ -364,3 +364,87 @@ Selected samples: 0
 Selected labels:  0
 Session URL:      http://localhost:5151/
 2024-11-24 16:25:00 FINISHED
+2024-11-25 08:49:26 Updating "requirements.txt"
+2024-11-25 08:49:27 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-25 08:49:29 FiftyOne dataset "Guam07v3" already exists
+2024-11-25 08:49:29 Loading FiftyOne dataset "Guam07v3"
+2024-11-25 08:49:35 Ground truth bounding boxes: 14807
+2024-11-25 08:49:35 "timestamp" field already exists
+2024-11-25 08:49:35 "embeddings" field already exists
+2024-11-25 08:49:35 "similarity_with_prev_img" field already exists
+2024-11-25 08:49:35 "yolov8" field already exists
+2024-11-25 08:49:35 "mistakenness" field already exists
+2024-11-25 08:49:35 Creating "bb_touching_edge_view"
+2024-11-25 08:49:35     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-25 08:49:35     0 ground truth bounding boxes touching image edges were found
+2024-11-25 08:49:35 Creating "autocorrelated_images_view"
+2024-11-25 08:49:35     "DELETE_AUTOCORRELATED_IMAGES" is True; samples will be deleted
+2024-11-25 08:49:35 With a threshold of 0.98, 0 autocorrelated images were found
+2024-11-25 08:49:35 Loading FiftyOne dataset "Guam07v3"
+2024-11-25 08:49:42 Ground truth bounding boxes: 14807
+2024-11-25 08:49:42 Launching FifyOne app in browser
+2024-11-25 08:49:44 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-25 08:49:44 Dataset:          Guam07v3
+Media type:       image
+Num samples:      8959
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-25 08:49:44 FINISHED
+2024-11-25 08:58:44 Updating "requirements.txt"
+2024-11-25 08:58:45 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-25 08:58:45 FiftyOne dataset "Guam07v3" already exists
+2024-11-25 08:58:45 Loading FiftyOne dataset "Guam07v3"
+2024-11-25 08:58:51 Ground truth bounding boxes: 14807
+2024-11-25 08:58:51 "timestamp" field already exists
+2024-11-25 08:58:51 "embeddings" field already exists
+2024-11-25 08:58:51 "similarity_with_prev_img" field already exists
+2024-11-25 08:58:51 "yolov8" field already exists
+2024-11-25 08:58:51 "mistakenness" field already exists
+2024-11-25 09:01:17 Updating "requirements.txt"
+2024-11-25 09:01:17 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-25 09:01:17 FiftyOne dataset "Guam07v3" already exists
+2024-11-25 09:01:17 Loading FiftyOne dataset "Guam07v3"
+2024-11-25 09:01:24 Ground truth bounding boxes: 14807
+2024-11-25 09:01:24 "timestamp" field already exists
+2024-11-25 09:01:24 "embeddings" field already exists
+2024-11-25 09:01:24 "similarity_with_prev_img" field already exists
+2024-11-25 09:01:24 "yolov8" field already exists
+2024-11-25 09:01:24 "mistakenness" field already exists
+2024-11-25 09:02:52 Updating "requirements.txt"
+2024-11-25 09:02:53 "/home/aubrey/datasets/Guam07v3" already exists in YOLOv5 format
+2024-11-25 09:02:53 FiftyOne dataset "Guam07v3" already exists
+2024-11-25 09:02:53 Loading FiftyOne dataset "Guam07v3"
+2024-11-25 09:02:59 Ground truth bounding boxes: 14807
+2024-11-25 09:02:59 "timestamp" field already exists
+2024-11-25 09:02:59 "embeddings" field already exists
+2024-11-25 09:02:59 "similarity_with_prev_img" field already exists
+2024-11-25 09:02:59 "yolov8" field already exists
+2024-11-25 09:02:59 "mistakenness" field already exists
+2024-11-25 09:02:59 "bb_touching_edge_view" already exist
+2024-11-25 09:02:59 "autocorrelated_images_view" already exists
+2024-11-25 09:02:59 Loading FiftyOne dataset "Guam07v3"
+2024-11-25 09:03:05 Ground truth bounding boxes: 14807
+2024-11-25 09:03:05 Launching FifyOne app in browser
+2024-11-25 09:03:05 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-25 09:03:05 Dataset:          Guam07v3
+Media type:       image
+Num samples:      8959
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-25 09:03:05 FINISHED
+2024-11-25 09:31:51  100% |███████████████| 8104/8104 [9.3s elapsed, 0s remaining, 948.8 samples/s]       
+2024-11-25 09:31:51 Directory '/home/aubrey/myexport' already exists; export will be merged with existing files
+2024-11-25 09:31:52  100% |█████████████████| 855/855 [997.2ms elapsed, 0s remaining, 886.1 samples/s]      
+2024-11-25 10:25:16  100% |███████████████| 8104/8104 [9.2s elapsed, 0s remaining, 959.6 samples/s]       
+2024-11-25 10:25:16 Directory '/home/aubrey/myexport' already exists; export will be merged with existing files
+2024-11-25 10:25:17  100% |█████████████████| 855/855 [970.5ms elapsed, 0s remaining, 899.8 samples/s]      
+2024-11-25 12:10:21 Directory '/home/aubrey/myexport' already exists; export will be merged with existing files
+2024-11-25 12:10:32  100% |███████████████| 8104/8104 [10.5s elapsed, 0s remaining, 831.5 samples/s]      
+2024-11-25 12:10:32 Directory '/home/aubrey/myexport' already exists; export will be merged with existing files
+2024-11-25 12:10:33  100% |█████████████████| 855/855 [1.1s elapsed, 0s remaining, 807.5 samples/s]         
+2024-11-25 12:30:45 Directory '/home/aubrey/myexport' already exists; export will be merged with existing files
+2024-11-25 12:30:55  100% |███████████████| 8104/8104 [10.5s elapsed, 0s remaining, 823.1 samples/s]      
+2024-11-25 12:30:55 Directory '/home/aubrey/myexport' already exists; export will be merged with existing files
+2024-11-25 12:30:56  100% |█████████████████| 855/855 [1.1s elapsed, 0s remaining, 802.0 samples/s]         
