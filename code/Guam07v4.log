@@ -1,0 +1,61 @@
+2024-11-28 12:33:07 Updating "requirements.txt"
+2024-11-28 12:33:07 "/home/aubrey/crb_damage_detector_data/datasets/Guam07v4" already exists in YOLOv5 format
+2024-11-28 12:33:07 FiftyOne dataset "Guam07v4" already exists
+2024-11-28 12:33:07 Loading FiftyOne dataset "Guam07v4"
+2024-11-28 12:33:14     Ground truth bounding boxes: 14802
+2024-11-28 12:33:14 "timestamp" field already exists
+2024-11-28 12:33:14 "embeddings" field already exists
+2024-11-28 12:33:14 "similarity_with_prev_img" field already exists
+2024-11-28 12:33:14 "yolov8" field already exists
+2024-11-28 12:33:14 "mistakenness" field already exists
+2024-11-28 12:33:14 "bb_touching_edge_view" already exists
+2024-11-28 12:33:14 "autocorrelated_images_view" already exists
+2024-11-28 12:33:14 Loading FiftyOne dataset "Guam07v4"
+2024-11-28 12:33:20     Ground truth bounding boxes: 14802
+2024-11-28 12:33:20 Launching FifyOne app in browser
+2024-11-28 12:33:20 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-28 12:33:20 Dataset:          Guam07v4
+Media type:       image
+Num samples:      7401
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-28 12:33:20 FINISHED
+2024-11-28 15:39:19 Updating "requirements.txt"
+2024-11-28 15:39:19 "/home/aubrey/crb_damage_detector_data/datasets/Guam07v4" already exists in YOLOv5 format
+2024-11-28 15:39:21 FiftyOne dataset "Guam07v4" already exists
+2024-11-28 15:39:21 Loading FiftyOne dataset "Guam07v4"
+2024-11-28 15:39:28     Ground truth bounding boxes: 14802
+2024-11-28 15:39:28 "timestamp" field already exists
+2024-11-28 15:39:28 "embeddings" field already exists
+2024-11-28 15:39:28 "similarity_with_prev_img" field already exists
+2024-11-28 15:39:28 "yolov8" field already exists
+2024-11-28 15:39:28 "mistakenness" field already exists
+2024-11-28 15:39:28 Creating "bb_touching_edge_view"
+2024-11-28 15:39:28     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-28 15:51:12 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-28 16:15:15 Updating "requirements.txt"
+2024-11-28 16:15:16 "/home/aubrey/crb_damage_detector_data/datasets/Guam07v4" already exists in YOLOv5 format
+2024-11-28 16:15:17 FiftyOne dataset "Guam07v4" already exists
+2024-11-28 16:15:17 Loading FiftyOne dataset "Guam07v4"
+2024-11-28 16:15:23     Ground truth bounding boxes: 13565
+2024-11-28 16:15:23 "timestamp" field already exists
+2024-11-28 16:15:23 "embeddings" field already exists
+2024-11-28 16:15:23 "similarity_with_prev_img" field already exists
+2024-11-28 16:15:23 "yolov8" field already exists
+2024-11-28 16:15:23 "mistakenness" field already exists
+2024-11-28 16:15:23 Creating "bb_touching_edge_view"
+2024-11-28 16:15:23     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-28 16:15:24     0 ground truth bounding boxes touching image edges were found
+2024-11-28 16:15:24 "autocorrelated_images_view" already exists
+2024-11-28 16:15:24 Loading FiftyOne dataset "Guam07v4"
+2024-11-28 16:15:30     Ground truth bounding boxes: 13565
+2024-11-28 16:15:30 Launching FifyOne app in browser
+2024-11-28 16:15:32 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-28 16:15:32 Dataset:          Guam07v4
+Media type:       image
+Num samples:      7401
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-28 16:15:32 FINISHED
