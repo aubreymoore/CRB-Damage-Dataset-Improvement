@@ -59,3 +59,6 @@ Selected samples: 0
 Selected labels:  0
 Session URL:      http://localhost:5151/
 2024-11-28 16:15:32 FINISHED
+2024-11-28 16:48:44  100% |███████████████| 6698/6698 [8.3s elapsed, 0s remaining, 850.8 samples/s]       
+2024-11-28 16:48:44 Directory '/home/aubrey/crb_damage_detector_data/datasets/Guam07v5' already exists; export will be merged with existing files
+2024-11-28 16:48:45  100% |█████████████████| 703/703 [883.0ms elapsed, 0s remaining, 796.1 samples/s]      
