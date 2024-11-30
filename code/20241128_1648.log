@@ -1,0 +1,140 @@
+2024-11-29 17:13:51 Updating "requirements.txt"
+2024-11-29 17:13:53 Creating FiftyOne dataset "20241128_1648"
+2024-11-29 17:13:53  100% |█████████████████████| 0/0 [1.1ms elapsed, ? remaining, ? samples/s]  
+2024-11-29 17:13:53  100% |█████████████████████| 0/0 [1.0ms elapsed, ? remaining, ? samples/s]  
+2024-11-29 17:13:53 Loading FiftyOne dataset "20241128_1648"
+2024-11-29 17:13:53     Ground truth bounding boxes: 0
+2024-11-29 17:13:53 Adding "timestamp" field
+2024-11-29 17:13:53 Adding "embeddings" field
+2024-11-29 17:17:45 Updating "requirements.txt"
+2024-11-29 17:17:45 FiftyOne dataset "20241128_1648" already exists
+2024-11-29 17:17:45 Loading FiftyOne dataset "20241128_1648"
+2024-11-29 17:17:45     Ground truth bounding boxes: 0
+2024-11-29 17:17:45 "timestamp" field already exists
+2024-11-29 17:17:45 Adding "embeddings" field
+2024-11-29 17:19:32 Updating "requirements.txt"
+2024-11-29 17:19:33 Creating FiftyOne dataset "20241128_1648"
+2024-11-29 17:19:38  100% |███████████████| 6291/6291 [4.9s elapsed, 0s remaining, 1.4K samples/s]      
+2024-11-29 17:19:38  100% |█████████████████| 658/658 [608.7ms elapsed, 0s remaining, 1.1K samples/s]      
+2024-11-29 17:19:38 Loading FiftyOne dataset "20241128_1648"
+2024-11-29 17:19:40     Ground truth bounding boxes: 13565
+2024-11-29 17:19:40 Adding "timestamp" field
+2024-11-29 17:19:46 Adding "embeddings" field
+2024-11-29 17:23:55  100% |███████████████| 6949/6949 [4.1m elapsed, 0s remaining, 27.9 samples/s]       
+2024-11-29 17:23:55 Adding "similarity_with_prev_img" field
+2024-11-29 17:24:06 Adding "yolov8" field
+2024-11-29 17:31:10  100% |███████████████| 6949/6949 [7.1m elapsed, 0s remaining, 16.7 samples/s]       
+2024-11-29 17:31:10 Adding "mistakenness" field
+2024-11-29 17:31:10 Evaluating detections...
+2024-11-29 17:31:25  100% |███████████████| 6949/6949 [15.2s elapsed, 0s remaining, 474.8 samples/s]      
+2024-11-29 17:31:25 Computing mistakenness...
+2024-11-29 17:31:40  100% |███████████████| 6949/6949 [14.4s elapsed, 0s remaining, 516.4 samples/s]      
+2024-11-29 17:31:40 Mistakenness computation complete
+2024-11-29 17:31:40 Creating "bb_touching_edge_view"
+2024-11-29 17:31:40     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-29 17:31:40     0 ground truth bounding boxes touching image edges were found
+2024-11-29 17:31:40 Creating "autocorrelated_images_view"
+2024-11-29 17:31:40     "DELETE_AUTOCORRELATED_IMAGES" is True; samples will be deleted
+2024-11-29 17:31:40     With a threshold of 0.98, 1 autocorrelated images were found
+2024-11-29 17:31:40 Loading FiftyOne dataset "20241128_1648"
+2024-11-29 17:31:46     Ground truth bounding boxes: 13562
+2024-11-29 17:31:46 Launching FifyOne app in browser
+2024-11-29 17:31:48 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-29 17:31:48 Dataset:          20241128_1648
+Media type:       image
+Num samples:      6948
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-29 17:31:48 FINISHED
+2024-11-29 19:34:50  100% |███████████████| 6291/6291 [5.2s elapsed, 0s remaining, 1.3K samples/s]       
+2024-11-29 19:34:50  100% |█████████████████| 658/658 [491.9ms elapsed, 0s remaining, 1.3K samples/s]      
+2024-11-29 19:36:38 Updating "requirements.txt"
+2024-11-29 19:36:40 FiftyOne dataset "20241128_1648" already exists
+2024-11-29 19:36:40 Loading FiftyOne dataset "20241128_1648"
+2024-11-29 19:36:42     Ground truth bounding boxes: 13565
+2024-11-29 19:36:42 Adding "timestamp" field
+2024-11-29 19:36:48 Adding "embeddings" field
+2024-11-29 19:41:05  100% |███████████████| 6949/6949 [4.3m elapsed, 0s remaining, 26.0 samples/s]       
+2024-11-29 19:41:05 Adding "similarity_with_prev_img" field
+2024-11-29 19:41:16 Adding "yolov8" field
+2024-11-29 19:48:24  100% |███████████████| 6949/6949 [7.1m elapsed, 0s remaining, 16.2 samples/s]       
+2024-11-29 19:48:24 Adding "mistakenness" field
+2024-11-29 19:48:24 Evaluating detections...
+2024-11-29 19:48:40  100% |███████████████| 6949/6949 [15.6s elapsed, 0s remaining, 477.9 samples/s]      
+2024-11-29 19:48:40 Computing mistakenness...
+2024-11-29 19:48:54  100% |███████████████| 6949/6949 [14.4s elapsed, 0s remaining, 509.4 samples/s]      
+2024-11-29 19:48:55 Mistakenness computation complete
+2024-11-29 19:48:55 Creating "bb_touching_edge_view"
+2024-11-29 19:48:55     "DELETE_BBS_TOUCHING_EDGES" is True; bbs will be deleted
+2024-11-29 19:48:55     0 ground truth bounding boxes touching image edges were found
+2024-11-29 19:48:55 Creating "autocorrelated_images_view"
+2024-11-29 19:48:55     "DELETE_AUTOCORRELATED_IMAGES" is True; samples will be deleted
+2024-11-29 19:48:55     With a threshold of 0.98, 1 autocorrelated images were found
+2024-11-29 19:48:55 Loading FiftyOne dataset "20241128_1648"
+2024-11-29 19:49:01     Ground truth bounding boxes: 13562
+2024-11-29 19:49:01 Launching FifyOne app in browser
+2024-11-29 19:49:03 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-29 19:49:03 Dataset:          20241128_1648
+Media type:       image
+Num samples:      6948
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-29 19:49:03 FINISHED
+2024-11-30 07:58:49 Updating "requirements.txt"
+2024-11-30 07:58:51 FiftyOne dataset "20241128_1648" already exists
+2024-11-30 07:58:51 Loading FiftyOne dataset "20241128_1648"
+2024-11-30 07:58:58     Ground truth bounding boxes: 13562
+2024-11-30 07:58:58 "timestamp" field already exists
+2024-11-30 07:58:58 "embeddings" field already exists
+2024-11-30 07:58:58 "similarity_with_prev_img" field already exists
+2024-11-30 07:58:58 "yolov8" field already exists
+2024-11-30 07:58:58 "mistakenness" field already exists
+2024-11-30 07:58:58 "bb_touching_edge_view" already exists
+2024-11-30 07:58:58 "autocorrelated_images_view" already exists
+2024-11-30 07:58:58 Loading FiftyOne dataset "20241128_1648"
+2024-11-30 07:59:04     Ground truth bounding boxes: 13562
+2024-11-30 07:59:04 Launching FifyOne app in browser
+2024-11-30 07:59:06 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-30 07:59:06 Dataset:          20241128_1648
+Media type:       image
+Num samples:      6948
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-11-30 07:59:06 FINISHED
+2024-11-30 11:08:59 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-11-30 11:08:59 Computing metadata...
+2024-11-30 11:08:59  100% |███████████████████| 20/20 [21.9ms elapsed, 0s remaining, 913.8 samples/s] 
+2024-11-30 11:08:59 Uploading samples to CVAT...
+2024-11-30 11:09:00 Launching editor at 'http://localhost:8080/tasks/5/jobs/5'...
+2024-11-30 11:33:50 Downloading labels from CVAT...
+2024-11-30 11:33:50 Download complete
+2024-11-30 11:33:50 Loading labels for field 'ground_truth'...
+2024-11-30 11:33:50  100% |███████████████████| 16/16 [25.3ms elapsed, 0s remaining, 631.8 samples/s] 
+2024-11-30 14:30:36 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-11-30 14:30:36 Computing metadata...
+2024-11-30 14:30:36  100% |█████████████████████| 5/5 [3.6ms elapsed, 0s remaining, 1.4K samples/s] 
+2024-11-30 14:30:36 Uploading samples to CVAT...
+2024-11-30 14:30:38 Launching editor at 'http://localhost:8080/tasks/6/jobs/6'...
+2024-11-30 14:38:03 Downloading labels from CVAT...
+2024-11-30 14:38:03 Download complete
+2024-11-30 14:38:03 Loading labels for field 'ground_truth'...
+2024-11-30 14:38:03  100% |█████████████████████| 5/5 [19.6ms elapsed, 0s remaining, 255.5 samples/s] 
+2024-11-30 14:39:04 Downloading labels from CVAT...
+2024-11-30 14:39:04 Download complete
+2024-11-30 14:39:04 Loading labels for field 'ground_truth'...
+2024-11-30 14:39:04  100% |█████████████████████| 5/5 [16.8ms elapsed, 0s remaining, 297.2 samples/s] 
+2024-11-30 14:39:04 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-30 14:42:23 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-11-30 14:43:30 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-11-30 14:43:31 Uploading samples to CVAT...
+2024-11-30 14:43:32 Launching editor at 'http://localhost:8080/tasks/7/jobs/7'...
+2024-11-30 14:48:44 Downloading labels from CVAT...
+2024-11-30 14:48:44 Download complete
+2024-11-30 14:48:44 Loading labels for field 'ground_truth'...
+2024-11-30 14:48:44  100% |█████████████████████| 5/5 [13.6ms elapsed, 0s remaining, 367.2 samples/s] 
+2024-11-30 14:48:44 Session launched. Run `session.show()` to open the App in a cell output.
+2024-11-30 14:48:44 Deleting tasks...
+2024-11-30 14:48:44  100% |█████████████████████| 1/1 [114.9ms elapsed, 0s remaining, 8.7 samples/s] 
