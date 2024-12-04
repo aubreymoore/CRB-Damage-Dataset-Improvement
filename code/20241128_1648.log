@@ -231,3 +231,76 @@ Selected samples: 0
 Selected labels:  0
 Session URL:      http://localhost:5151/
 2024-12-03 17:34:47 Updating "requirements.txt"
+2024-12-03 17:37:55 Executing export_51_to_yolo() with the following parameters:
+2024-12-03 17:37:55    dataset_name=20241203_1148
+2024-12-03 17:37:55    export_dir=/home/aubrey/crb_damage_detector_data/dataset/20241203_1737
+2024-12-03 17:37:55    remove_unannotated=True
+2024-12-03 17:38:01  100% |███████████████| 6291/6291 [5.8s elapsed, 0s remaining, 1.1K samples/s]       
+2024-12-03 17:38:01 Directory '/home/aubrey/crb_damage_detector_data/dataset/20241203_1737' already exists; export will be merged with existing files
+2024-12-03 17:38:01  100% |█████████████████| 658/658 [582.0ms elapsed, 0s remaining, 1.1K samples/s]       
+2024-12-03 17:39:13 Updating "requirements.txt"
+2024-12-03 17:53:41 Updating "requirements.txt"
+2024-12-04 04:43:02 Executing train_model() with the following parameter:
+2024-12-04 04:43:02    yaml_path=/home/aubrey/crb_damage_detector_data/datasets/20241203_1737/dataset.yaml
+2024-12-04 10:21:01 Updating "requirements.txt"
+2024-12-04 10:21:34 Executing yolo2fiftyone() with the following parameters:
+2024-12-04 10:21:34    name=20241204_1021
+2024-12-04 10:21:34    dataset_dir=/home/aubrey/crb_damage_detector_data/datasets/20241203_1737
+2024-12-04 10:21:34    splits=["train", "val"])
+2024-12-04 10:21:39  100% |███████████████| 6176/6176 [4.5s elapsed, 0s remaining, 1.4K samples/s]      
+2024-12-04 10:21:40  100% |█████████████████| 646/646 [493.9ms elapsed, 0s remaining, 1.3K samples/s]      
+2024-12-04 10:23:45 Launching FifyOne app in browser
+2024-12-04 10:23:45 Connected to FiftyOne on port 5151 at localhost.
+If you are not connecting to a remote session, you may need to start a new session and specify a port
+2024-12-04 10:23:45 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-04 10:23:45 Dataset:          20241204_1021
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-04 10:29:25 Updating "requirements.txt"
+2024-12-04 10:55:05 Launching FifyOne app in browser
+2024-12-04 10:55:05 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-04 10:55:05 Dataset:          20241204_1021
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-04 10:58:02 Updating "requirements.txt"
+2024-12-04 10:58:11 Launching FifyOne app in browser
+2024-12-04 10:58:11 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-04 10:58:11 Dataset:          20241204_1021
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-04 14:45:52 Updating "requirements.txt"
+2024-12-04 14:46:01 Adding YOLO predictions as "yolo" label field
+2024-12-04 14:46:54 Updating "requirements.txt"
+2024-12-04 14:47:07 Adding YOLO predictions as "yolo" label field
+2024-12-04 14:54:15  100% |███████████████| 6822/6822 [7.1m elapsed, 0s remaining, 16.2 samples/s]       
+2024-12-04 15:06:56 Updating "requirements.txt"
+2024-12-04 15:11:47 Adding YOLO predictions as "yolo" label field
+2024-12-04 15:12:26 Updating "requirements.txt"
+2024-12-04 15:12:30 Adding YOLO predictions as "yolo" label field
+2024-12-04 15:19:40  100% |███████████████| 6822/6822 [7.2m elapsed, 0s remaining, 14.8 samples/s]      
+2024-12-04 15:19:40 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-04 15:19:40 Evaluating detections...
+2024-12-04 15:19:56  100% |███████████████| 6822/6822 [15.5s elapsed, 0s remaining, 443.7 samples/s]      
+2024-12-04 15:19:56 Computing mistakenness...
+2024-12-04 15:20:10  100% |███████████████| 6822/6822 [14.6s elapsed, 0s remaining, 483.0 samples/s]      
+2024-12-04 15:20:11 Mistakenness computation complete
+2024-12-04 15:20:39 Launching FifyOne app in browser
+2024-12-04 15:20:39 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-04 15:20:39 Dataset:          20241204_1021
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-04 15:32:05 Updating "requirements.txt"
+2024-12-04 15:32:35 Updating "requirements.txt"
+2024-12-04 15:32:53 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
