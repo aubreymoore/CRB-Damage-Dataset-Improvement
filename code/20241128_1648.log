@@ -462,3 +462,51 @@ Session URL:      http://localhost:5151/
 2024-12-09 11:36:41 Updating "requirements.txt"
 2024-12-09 11:36:55 Updating "requirements.txt"
 2024-12-09 11:38:02 Updating "requirements.txt"
+2024-12-09 16:17:39 Updating "requirements.txt"
+2024-12-09 16:20:37 Executing yolo2fiftyone() with the following parameters:
+2024-12-09 16:20:37    name=202412091620
+2024-12-09 16:20:37    dataset_dir=/home/aubrey/crb_damage_detector_data/datasets/202412051729
+2024-12-09 16:20:37    splits=["train", "val"])
+2024-12-09 16:20:39  100% |█████████████████████| 0/0 [1.3ms elapsed, ? remaining, ? samples/s]  
+2024-12-09 16:20:39  100% |█████████████████████| 0/0 [1.5ms elapsed, ? remaining, ? samples/s]  
+2024-12-09 16:26:56 Adding YOLO predictions as "yolo" label field
+2024-12-09 16:30:34 Updating "requirements.txt"
+2024-12-09 16:30:53 Launching FifyOne app in browser
+2024-12-09 16:30:55 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-09 16:30:55 Dataset:     -
+Session URL: http://localhost:5151/
+2024-12-09 16:36:27 Executing yolo2fiftyone() with the following parameters:
+2024-12-09 16:36:27    name=202412091636
+2024-12-09 16:36:27    dataset_dir=/home/aubrey/crb_damage_detector_data/datasets/202412051729
+2024-12-09 16:36:27    splits=["train", "val"])
+2024-12-09 16:36:27  100% |█████████████████████| 0/0 [1.2ms elapsed, ? remaining, ? samples/s]  
+2024-12-09 16:36:27  100% |█████████████████████| 0/0 [1.3ms elapsed, ? remaining, ? samples/s]  
+2024-12-09 16:38:13 Updating "requirements.txt"
+2024-12-09 16:38:42 Executing yolo2fiftyone() with the following parameters:
+2024-12-09 16:38:42    name=202412091638
+2024-12-09 16:38:42    dataset_dir=/home/aubrey/crb_damage_detector_data/datasets/202412051729
+2024-12-09 16:38:42    splits=["train", "val"])
+2024-12-09 16:38:42  100% |█████████████████████| 0/0 [1.6ms elapsed, ? remaining, ? samples/s]  
+2024-12-09 16:38:42  100% |█████████████████████| 0/0 [980.4us elapsed, ? remaining, ? samples/s] 
+2024-12-09 16:46:07 Executing yolo2fiftyone() with the following parameters:
+2024-12-09 16:46:07    name=202412091646
+2024-12-09 16:46:07    dataset_dir=/home/aubrey/crb_damage_detector_data/datasets/202412051729
+2024-12-09 16:46:07    splits=["train", "val"])
+2024-12-09 16:46:13  100% |███████████████| 6176/6176 [5.7s elapsed, 0s remaining, 1.1K samples/s]      
+2024-12-09 16:46:14  100% |█████████████████| 646/646 [551.9ms elapsed, 0s remaining, 1.2K samples/s]      
+2024-12-09 16:46:57 Launching FifyOne app in browser
+2024-12-09 16:46:57 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-09 16:46:57 Dataset:          202412091646
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-09 16:48:35 Adding YOLO predictions as "yolo" label field
+2024-12-09 16:57:53  100% |███████████████| 6822/6822 [9.3m elapsed, 0s remaining, 12.0 samples/s]      
+2024-12-09 17:02:03 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-09 17:02:03 Evaluating detections...
+2024-12-09 17:02:22  100% |███████████████| 6822/6822 [18.6s elapsed, 0s remaining, 409.5 samples/s]      
+2024-12-09 17:02:22 Computing mistakenness...
+2024-12-09 17:02:40  100% |███████████████| 6822/6822 [18.3s elapsed, 0s remaining, 398.9 samples/s]      
+2024-12-09 17:02:41 Mistakenness computation complete
