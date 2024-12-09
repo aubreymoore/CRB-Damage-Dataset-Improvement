@@ -304,3 +304,161 @@ Session URL:      http://localhost:5151/
 2024-12-04 15:32:05 Updating "requirements.txt"
 2024-12-04 15:32:35 Updating "requirements.txt"
 2024-12-04 15:32:53 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-04 15:41:43 Updating "requirements.txt"
+2024-12-04 15:42:20 Executing yolo2fiftyone() with the following parameters:
+2024-12-04 15:42:20    name=20241204_1542
+2024-12-04 15:42:20    dataset_dir=/home/aubrey/crb_damage_detector_data/datasets/20241203_1737
+2024-12-04 15:42:20    splits=["train", "val"])
+2024-12-04 15:42:25  100% |███████████████| 6176/6176 [5.1s elapsed, 0s remaining, 1.2K samples/s]      
+2024-12-04 15:42:26  100% |█████████████████| 646/646 [473.3ms elapsed, 0s remaining, 1.4K samples/s]      
+2024-12-04 15:42:36 Launching FifyOne app in browser
+2024-12-04 15:42:36 Connected to FiftyOne on port 5151 at localhost.
+If you are not connecting to a remote session, you may need to start a new session and specify a port
+2024-12-04 15:42:36 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-04 15:42:36 Dataset:          20241204_1542
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-04 15:45:36 Launching FifyOne app in browser
+2024-12-04 15:45:36 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-04 15:45:36 Dataset:          20241204_1542
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-04 15:50:39 Updating "requirements.txt"
+2024-12-04 15:51:35 Launching FifyOne app in browser
+2024-12-04 15:51:38 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-04 15:51:38 Dataset:          20241204_1542
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-04 15:55:09 Adding YOLO predictions as "yolo" label field
+2024-12-04 16:04:22  100% |███████████████| 6822/6822 [9.2m elapsed, 0s remaining, 12.4 samples/s]      
+2024-12-05 09:00:20 Updating "requirements.txt"
+2024-12-05 09:00:50 Launching FifyOne app in browser
+2024-12-05 09:00:52 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-05 09:00:52 Dataset:          20241204_1542
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-05 09:09:14 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-05 09:09:14 Evaluating detections...
+2024-12-05 09:09:32  100% |███████████████| 6822/6822 [17.7s elapsed, 0s remaining, 405.0 samples/s]      
+2024-12-05 09:09:32 Computing mistakenness...
+2024-12-05 09:09:50  100% |███████████████| 6822/6822 [17.6s elapsed, 0s remaining, 410.1 samples/s]      
+2024-12-05 09:09:50 Mistakenness computation complete
+2024-12-05 09:14:29 Updating "requirements.txt"
+2024-12-05 09:14:34 Launching FifyOne app in browser
+2024-12-05 09:14:36 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-05 09:14:36 Dataset:          20241204_1542
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-05 09:25:03 Updating "requirements.txt"
+2024-12-05 09:25:07 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-05 09:36:59 Updating "requirements.txt"
+2024-12-05 09:37:09 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-05 09:37:10 Evaluating detections...
+2024-12-05 09:37:26  100% |███████████████| 6822/6822 [16.1s elapsed, 0s remaining, 448.8 samples/s]      
+2024-12-05 09:37:26 Computing mistakenness...
+2024-12-05 09:37:40  100% |███████████████| 6822/6822 [14.5s elapsed, 0s remaining, 480.9 samples/s]      
+2024-12-05 09:37:41 Mistakenness computation complete
+2024-12-05 11:34:17  100% |███████████████| 6822/6822 [7.1s elapsed, 0s remaining, 980.8 samples/s]       
+2024-12-05 11:35:44  100% |███████████████| 6822/6822 [7.2s elapsed, 0s remaining, 1.0K samples/s]        
+2024-12-05 11:36:07  100% |███████████████| 6822/6822 [7.1s elapsed, 0s remaining, 1.1K samples/s]        
+2024-12-05 13:16:06 Updating "requirements.txt"
+2024-12-05 13:17:32 Launching FifyOne app in browser
+2024-12-05 13:17:34 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-05 13:17:34 Dataset:          20241204_1542
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-05 13:26:09 Launching FifyOne app in browser
+2024-12-05 13:26:09 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-05 13:26:09 Dataset:          20241204_1542
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-05 13:43:37 Updating "requirements.txt"
+2024-12-05 13:46:46 Updating "requirements.txt"
+2024-12-05 14:43:24 Updating "requirements.txt"
+2024-12-05 15:15:42 Updating "requirements.txt"
+2024-12-05 15:33:24 Updating "requirements.txt"
+2024-12-05 15:33:47 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-05 15:33:47 Computing metadata...
+2024-12-05 15:33:47  100% |███████████████████| 89/89 [47.0ms elapsed, 0s remaining, 1.9K samples/s] 
+2024-12-05 15:33:47 Uploading samples to CVAT...
+2024-12-05 15:33:49 Launching editor at 'http://localhost:8080/tasks/9/jobs/9'...
+2024-12-05 17:29:49 Executing export_51_to_yolo() with the following parameters:
+2024-12-05 17:29:49    dataset_name=20241204_1542
+2024-12-05 17:29:49    export_dir=/home/aubrey/crb_damage_detector_data/dataset/20241205_1729
+2024-12-05 17:29:49    remove_unannotated=True
+2024-12-05 17:29:59  100% |███████████████| 6176/6176 [10.0s elapsed, 0s remaining, 619.0 samples/s]      
+2024-12-05 17:29:59 Directory '/home/aubrey/crb_damage_detector_data/dataset/20241205_1729' already exists; export will be merged with existing files
+2024-12-05 17:30:00  100% |█████████████████| 646/646 [1.1s elapsed, 0s remaining, 633.8 samples/s]         
+2024-12-05 17:30:07 Executing train_model() with the following parameter:
+2024-12-05 17:30:07    yaml_path=/home/aubrey/crb_damage_detector_data/datasets/20241203_1737/dataset.yaml
+2024-12-05 19:16:18 Updating "requirements.txt"
+2024-12-05 19:16:32 Executing train_model() with the following parameter:
+2024-12-05 19:16:32    yaml_path=/home/aubrey/crb_damage_detector_data/datasets/20241205_1729/dataset.yaml
+2024-12-06 06:06:54    finished training
+2024-12-07 08:05:39 Updating "requirements.txt"
+2024-12-07 11:10:38 Updating "requirements.txt"
+2024-12-07 11:12:01 Updating "requirements.txt"
+2024-12-07 11:12:34 Updating "requirements.txt"
+2024-12-07 11:13:12 Updating "requirements.txt"
+2024-12-07 11:13:58 Updating "requirements.txt"
+2024-12-07 14:06:01 Updating "requirements.txt"
+2024-12-07 14:10:29 Updating "requirements.txt"
+2024-12-07 14:11:24 Updating "requirements.txt"
+2024-12-07 14:11:36 Updating "requirements.txt"
+2024-12-07 14:14:48 Updating "requirements.txt"
+2024-12-07 14:16:24 Updating "requirements.txt"
+2024-12-07 14:16:46 Updating "requirements.txt"
+2024-12-07 14:19:53 Updating "requirements.txt"
+2024-12-07 14:24:27 Updating "requirements.txt"
+2024-12-07 14:25:24 Updating "requirements.txt"
+2024-12-07 14:25:48 Updating "requirements.txt"
+2024-12-07 14:27:20 Updating "requirements.txt"
+2024-12-07 14:27:32 Updating "requirements.txt"
+2024-12-07 14:38:35 Updating "requirements.txt"
+2024-12-07 14:38:51 Updating "requirements.txt"
+2024-12-07 16:19:16 Updating "requirements.txt"
+2024-12-07 16:19:39 Updating "requirements.txt"
+2024-12-07 16:19:58 Updating "requirements.txt"
+2024-12-07 16:20:15 Updating "requirements.txt"
+2024-12-07 16:22:41 Updating "requirements.txt"
+2024-12-07 16:22:58 Updating "requirements.txt"
+2024-12-07 16:23:13 Updating "requirements.txt"
+2024-12-07 16:24:48 Updating "requirements.txt"
+2024-12-07 16:25:52 Updating "requirements.txt"
+2024-12-07 16:29:20 Updating "requirements.txt"
+2024-12-07 16:30:04 Updating "requirements.txt"
+2024-12-09 11:04:50 Updating "requirements.txt"
+2024-12-09 11:23:04 Updating "requirements.txt"
+2024-12-09 11:24:14 Updating "requirements.txt"
+2024-12-09 11:28:11 Updating "requirements.txt"
+2024-12-09 11:29:05 Updating "requirements.txt"
+2024-12-09 11:29:35 Updating "requirements.txt"
+2024-12-09 11:30:50 Updating "requirements.txt"
+2024-12-09 11:31:17 Updating "requirements.txt"
+2024-12-09 11:31:46 Updating "requirements.txt"
+2024-12-09 11:34:02 Updating "requirements.txt"
+2024-12-09 11:35:56 Updating "requirements.txt"
+2024-12-09 11:36:41 Updating "requirements.txt"
+2024-12-09 11:36:55 Updating "requirements.txt"
+2024-12-09 11:38:02 Updating "requirements.txt"
