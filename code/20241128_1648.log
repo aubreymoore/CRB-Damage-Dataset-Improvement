@@ -510,3 +510,47 @@ Session URL:      http://localhost:5151/
 2024-12-09 17:02:22 Computing mistakenness...
 2024-12-09 17:02:40  100% |███████████████| 6822/6822 [18.3s elapsed, 0s remaining, 398.9 samples/s]      
 2024-12-09 17:02:41 Mistakenness computation complete
+2024-12-10 10:54:00 Updating "requirements.txt"
+2024-12-10 10:54:26 Launching FifyOne app in browser
+2024-12-10 10:54:30 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-10 10:54:30 Dataset:          202412091646
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-10 10:59:21 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-10 10:59:22 Computing metadata...
+2024-12-10 10:59:22  100% |███████████████████| 89/89 [56.2ms elapsed, 0s remaining, 1.6K samples/s] 
+2024-12-10 10:59:22 Uploading samples to CVAT...
+2024-12-10 10:59:24 Launching editor at 'http://localhost:8080/tasks/10/jobs/10'...
+2024-12-10 11:55:27 
+Status for label field 'ground_truth':
+
+2024-12-10 11:55:27 	Task 10 (FiftyOne_202412091646):
+		Status: annotation
+		Assignee: None
+		Last updated: 2024-12-10T03:07:49.585233Z
+		URL: http://localhost:8080/tasks/10
+
+2024-12-10 11:55:27 		Job 10:
+			Status: annotation
+			Assignee: None
+			Reviewer: None
+
+2024-12-10 12:06:40 Downloading labels from CVAT...
+2024-12-10 12:06:41 Download complete
+2024-12-10 12:06:41 Loading labels for field 'ground_truth'...
+2024-12-10 12:06:41  100% |███████████████████| 88/88 [181.2ms elapsed, 0s remaining, 485.6 samples/s]     
+2024-12-10 16:49:12 Updating "requirements.txt"
+2024-12-10 16:49:18 Object class counts: {'live': 9804, 'dead': 16, 'vcut': 3539}
+2024-12-10 17:03:02 Updating "requirements.txt"
+2024-12-10 17:03:11 merging CVAT annotations
+2024-12-10 17:03:11    before merge: {'live': 9804, 'dead': 16, 'vcut': 3539}
+2024-12-10 17:03:11 Downloading labels from CVAT...
+2024-12-10 17:03:12 Download complete
+2024-12-10 17:03:12 Loading labels for field 'ground_truth'...
+2024-12-10 17:03:12  100% |███████████████████| 88/88 [176.9ms elapsed, 0s remaining, 497.4 samples/s]     
+2024-12-10 17:03:12 Deleting tasks...
+2024-12-10 17:03:12  100% |█████████████████████| 1/1 [137.7ms elapsed, 0s remaining, 7.3 samples/s] 
+2024-12-10 17:03:12    after merge: {'live': 9804, 'dead': 16, 'vcut': 3539}

@@ -63,3 +63,13 @@ results = model.train(
 
 ```
 
+## Glenn Jocher note on class weighting
+
+https://github.com/ultralytics/ultralytics/issues/13330
+
+Class Weighting: You can assign higher weights to the minority class in your loss function. This approach helps the model pay more attention to the underrepresented class during training. In YOLOv8, you can adjust the cls parameter in your training configuration to apply class weights.
+```
+# Example configuration for class weighting
+train:
+  cls: [1.0, 10.0]  # Adjust weights for each class
+```
