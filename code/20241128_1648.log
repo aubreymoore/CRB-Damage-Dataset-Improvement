@@ -554,3 +554,185 @@ Status for label field 'ground_truth':
 2024-12-10 17:03:12 Deleting tasks...
 2024-12-10 17:03:12  100% |█████████████████████| 1/1 [137.7ms elapsed, 0s remaining, 7.3 samples/s] 
 2024-12-10 17:03:12    after merge: {'live': 9804, 'dead': 16, 'vcut': 3539}
+2024-12-10 17:07:41 Object class counts: {'live': 9804, 'dead': 16, 'vcut': 3539}
+2024-12-11 13:31:44 Updating "requirements.txt"
+2024-12-11 13:32:47 Launching FifyOne app in browser
+2024-12-11 13:32:51 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-11 13:32:51 Dataset:          202412091646
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-11 13:38:23 Object class counts: {'live': 9804, 'vcut': 3539, 'dead': 16}
+2024-12-11 13:44:29 Updating "requirements.txt"
+2024-12-11 13:44:56 Updating "requirements.txt"
+2024-12-11 13:45:24 Updating "requirements.txt"
+2024-12-11 13:46:37 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-11 13:59:47 Updating "requirements.txt"
+2024-12-11 14:03:08 Updating "requirements.txt"
+2024-12-11 14:04:24 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-11 14:04:24 Evaluating detections...
+2024-12-11 14:04:42  100% |███████████████| 6822/6822 [18.1s elapsed, 0s remaining, 410.0 samples/s]      
+2024-12-11 14:04:42 Computing mistakenness...
+2024-12-11 14:05:01  100% |███████████████| 6822/6822 [18.2s elapsed, 0s remaining, 409.6 samples/s]      
+2024-12-11 14:05:01 Mistakenness computation complete
+2024-12-11 14:09:34 Updating "requirements.txt"
+2024-12-11 14:10:20 Updating "requirements.txt"
+2024-12-11 14:10:28 Launching FifyOne app in browser
+2024-12-11 14:10:32 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-11 14:10:32 Dataset:          202412091646
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-11 14:11:55 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-11 14:11:55 Evaluating detections...
+2024-12-11 14:12:11  100% |███████████████| 6822/6822 [15.8s elapsed, 0s remaining, 458.6 samples/s]      
+2024-12-11 14:12:11 Computing mistakenness...
+2024-12-11 14:12:25  100% |███████████████| 6822/6822 [14.5s elapsed, 0s remaining, 490.4 samples/s]      
+2024-12-11 14:12:26 Mistakenness computation complete
+2024-12-11 14:14:53 Launching FifyOne app in browser
+2024-12-11 14:14:53 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-11 14:14:53 Dataset:          202412091646
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-11 14:21:31 Updating "requirements.txt"
+2024-12-11 14:21:48 Launching FifyOne app in browser
+2024-12-11 14:21:52 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-11 14:21:52 Dataset:          202412091646
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-11 14:24:21 Updating "requirements.txt"
+2024-12-11 14:25:00 Executing yolo2fiftyone() with the following parameters:
+2024-12-11 14:25:00    name=202412111425
+2024-12-11 14:25:00    dataset_dir=/home/aubrey/crb_damage_detector_data/datasets/202412051729
+2024-12-11 14:25:00    splits=["train", "val"])
+2024-12-11 14:25:07  100% |███████████████| 6176/6176 [5.1s elapsed, 0s remaining, 1.3K samples/s]       
+2024-12-11 14:25:08  100% |█████████████████| 646/646 [491.5ms elapsed, 0s remaining, 1.3K samples/s]      
+2024-12-11 14:26:11 Launching FifyOne app in browser
+2024-12-11 14:26:13 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-11 14:26:13 Dataset:          202412111425
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-11 14:27:09 Adding YOLO predictions as "yolo" label field
+2024-12-11 14:36:20  100% |███████████████| 6822/6822 [9.2m elapsed, 0s remaining, 12.1 samples/s]      
+2024-12-11 14:46:59 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-11 14:47:00 Evaluating detections...
+2024-12-11 14:47:18  100% |███████████████| 6822/6822 [18.4s elapsed, 0s remaining, 347.9 samples/s]      
+2024-12-11 14:47:18 Computing mistakenness...
+2024-12-11 14:47:37  100% |███████████████| 6822/6822 [18.7s elapsed, 0s remaining, 381.8 samples/s]      
+2024-12-11 14:47:37 Mistakenness computation complete
+2024-12-11 14:54:17 Updating "requirements.txt"
+2024-12-11 14:54:31 creating mistake_view
+2024-12-11 14:54:31 saving mistake_view
+2024-12-11 15:02:31 Updating "requirements.txt"
+2024-12-11 15:34:17 Updating "requirements.txt"
+2024-12-11 15:35:00 creating mistake_view
+2024-12-11 15:35:00    saving mistake_view
+2024-12-11 15:35:00    loading mistake_view
+2024-12-11 15:36:17 annotate using CVAT
+2024-12-11 15:36:17    saving current state of mistake_view
+2024-12-11 15:38:55 Updating "requirements.txt"
+2024-12-11 15:39:04 annotate using CVAT
+2024-12-11 15:39:04    saving current state of mistake_view
+2024-12-11 15:44:15 Updating "requirements.txt"
+2024-12-11 15:44:24 annotate using CVAT
+2024-12-11 15:44:24    saving current state of mistake_view
+2024-12-11 15:45:12 Updating "requirements.txt"
+2024-12-11 15:45:22 annotate using CVAT
+2024-12-11 15:45:22    saving current state of mistake_view
+2024-12-11 15:45:22    launching CVAT with anno_key="mistakes" and label_field="ground_truth"
+2024-12-11 15:49:03 Updating "requirements.txt"
+2024-12-11 15:49:13 annotate using CVAT
+2024-12-11 15:49:13    saving current state of mistake_view
+2024-12-11 15:49:13    launching CVAT with anno_key="mistakes" and label_field="ground_truth"
+2024-12-11 15:49:13 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-11 15:49:14 Computing metadata...
+2024-12-11 15:49:14  100% |█████████████████| 487/487 [290.1ms elapsed, 0s remaining, 1.7K samples/s]      
+2024-12-11 15:49:14 Uploading samples to CVAT...
+2024-12-11 15:49:19 Launching editor at 'http://localhost:8080/tasks/11/jobs/11'...
+2024-12-11 15:50:30 Launching FifyOne app in browser
+2024-12-11 15:50:30 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-11 15:50:30 Dataset:          202412111425
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-11 15:51:27 annotate using CVAT
+2024-12-11 15:51:27    saving current state of mistake_view
+2024-12-11 15:51:27    launching CVAT with anno_key="mistakes" and label_field="ground_truth"
+2024-12-11 15:51:27 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-11 15:58:10 Updating "requirements.txt"
+2024-12-11 15:58:41 annotate using CVAT
+2024-12-11 15:58:41    saving current state of mistake_view
+2024-12-11 16:25:55  100% |███████████████████| 89/89 [351.3ms elapsed, 0s remaining, 253.3 samples/s]      
+2024-12-12 07:48:46 Updating "requirements.txt"
+2024-12-12 07:50:20 Updating "requirements.txt"
+2024-12-12 07:51:31 Updating "requirements.txt"
+2024-12-12 07:53:17 Updating "requirements.txt"
+2024-12-12 07:56:22 Updating "requirements.txt"
+2024-12-12 08:05:42 Updating "requirements.txt"
+2024-12-12 08:08:07 Updating "requirements.txt"
+2024-12-12 08:20:16 Updating "requirements.txt"
+2024-12-12 08:21:32 Launching FifyOne app in browser
+2024-12-12 08:21:32 Connected to FiftyOne on port 5151 at localhost.
+If you are not connecting to a remote session, you may need to start a new session and specify a port
+2024-12-12 08:21:32 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-12 08:21:32 Dataset:          202412111425
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-12 14:32:41 annotate using CVAT
+2024-12-12 14:32:41    saving current state of mistake_view
+2024-12-12 15:03:40 Updating "requirements.txt"
+2024-12-12 15:03:49 annotate using CVAT
+2024-12-12 15:03:49    launching CVAT with anno_key="202412121454" and label_field="ground_truth"
+2024-12-12 15:11:11 Updating "requirements.txt"
+2024-12-12 15:11:20 annotate using CVAT
+2024-12-12 15:11:20    launching CVAT with anno_key="202412121454" and label_field="ground_truth"
+2024-12-12 15:11:20 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-12 15:16:43 Updating "requirements.txt"
+2024-12-12 15:16:51 annotate using CVAT
+2024-12-12 15:16:51    launching CVAT with anno_key="cvat202412121516" and label_field="ground_truth"
+2024-12-12 15:16:51 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-12 15:16:51 Uploading samples to CVAT...
+2024-12-12 15:16:52 Launching editor at 'http://localhost:8080/tasks/12/jobs/12'...
+2024-12-12 15:23:07 Updating "requirements.txt"
+2024-12-12 15:23:13 merging CVAT annotations
+2024-12-12 15:23:13    before merge: {'live': 9805, 'vcut': 3540, 'dead': 16}
+2024-12-12 15:23:13 Downloading labels from CVAT...
+2024-12-12 15:23:13 Download complete
+2024-12-12 15:23:13 Loading labels for field 'ground_truth'...
+2024-12-12 15:23:13  100% |█████████████████████| 1/1 [4.1ms elapsed, 0s remaining, 241.3 samples/s] 
+2024-12-12 15:23:13    after merge: {'live': 9803, 'dead': 16, 'vcut': 3539}
+2024-12-12 15:25:51 Launching FifyOne app in browser
+2024-12-12 15:25:51 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-12 15:25:51 Dataset:          202412111425
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-12 15:30:41 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-12 15:30:41 Evaluating detections...
+2024-12-12 15:30:59  100% |███████████████| 6822/6822 [17.8s elapsed, 0s remaining, 344.7 samples/s]      
+2024-12-12 15:30:59 Computing mistakenness...
+2024-12-12 15:31:18  100% |███████████████| 6822/6822 [18.3s elapsed, 0s remaining, 398.4 samples/s]      
+2024-12-12 15:31:18 Mistakenness computation complete
+2024-12-12 15:36:08 annotate using CVAT
+2024-12-12 15:36:08    launching CVAT with anno_key="cvat202412121516" and label_field="ground_truth"
+2024-12-12 15:36:08 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
