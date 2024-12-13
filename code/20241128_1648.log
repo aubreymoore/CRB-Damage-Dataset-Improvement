@@ -736,3 +736,122 @@ Session URL:      http://localhost:5151/
 2024-12-12 15:36:08 annotate using CVAT
 2024-12-12 15:36:08    launching CVAT with anno_key="cvat202412121516" and label_field="ground_truth"
 2024-12-12 15:36:08 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-13 07:28:15 Updating "requirements.txt"
+2024-12-13 07:31:26 Launching FifyOne app in browser
+2024-12-13 07:31:31 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-13 07:31:31 Dataset:          202412111425
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-13 07:38:37 annotate using CVAT
+2024-12-13 07:38:37    launching CVAT with anno_key="cvat202412130737" and label_field="ground_truth"
+2024-12-13 07:38:37 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-13 07:38:37 Uploading samples to CVAT...
+2024-12-13 07:38:39 Launching editor at 'http://localhost:8080/tasks/13/jobs/13'...
+2024-12-13 08:29:14 merging CVAT annotations
+2024-12-13 08:29:14    before merge: {'vcut': 3539, 'dead': 16, 'live': 9803}
+2024-12-13 08:29:14 Downloading labels from CVAT...
+2024-12-13 08:29:14 Download complete
+2024-12-13 08:29:14 Loading labels for field 'ground_truth'...
+2024-12-13 08:29:14  100% |█████████████████████| 3/3 [6.6ms elapsed, 0s remaining, 453.6 samples/s] 
+2024-12-13 08:29:14    after merge: {'vcut': 3538, 'live': 9803, 'dead': 16}
+2024-12-13 08:32:58 Updating "requirements.txt"
+2024-12-13 08:35:36 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-13 08:35:37 Evaluating detections...
+2024-12-13 08:35:55  100% |███████████████| 6822/6822 [18.0s elapsed, 0s remaining, 396.8 samples/s]      
+2024-12-13 08:35:55 Computing mistakenness...
+2024-12-13 08:36:13  100% |███████████████| 6822/6822 [18.0s elapsed, 0s remaining, 404.8 samples/s]      
+2024-12-13 08:36:13 Mistakenness computation complete
+2024-12-13 08:40:54 annotate using CVAT
+2024-12-13 08:40:54    launching CVAT with anno_key="cvat202412130840" and label_field="ground_truth"
+2024-12-13 08:40:54 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-13 08:40:54 Uploading samples to CVAT...
+2024-12-13 08:40:55 Launching editor at 'http://localhost:8080/tasks/14/jobs/14'...
+2024-12-13 08:52:36 Launching FifyOne app in browser
+2024-12-13 08:52:36 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-13 08:52:36 Dataset:          202412111425
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-13 08:53:29 merging CVAT annotations
+2024-12-13 08:53:29     anno_key=cvat202412130840
+2024-12-13 08:53:29    before merge: {'vcut': 3538, 'live': 9803, 'dead': 16}
+2024-12-13 08:53:29 Downloading labels from CVAT...
+2024-12-13 08:53:29 Download complete
+2024-12-13 08:53:29 Loading labels for field 'ground_truth'...
+2024-12-13 08:53:29  100% |█████████████████████| 8/8 [28.6ms elapsed, 0s remaining, 279.5 samples/s] 
+2024-12-13 08:53:29    after merge: {'vcut': 3530, 'live': 9804, 'dead': 16}
+2024-12-13 08:54:58 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-13 08:54:58 Evaluating detections...
+2024-12-13 08:55:16  100% |███████████████| 6822/6822 [18.0s elapsed, 0s remaining, 415.1 samples/s]      
+2024-12-13 08:55:16 Computing mistakenness...
+2024-12-13 08:55:34  100% |███████████████| 6822/6822 [17.9s elapsed, 0s remaining, 404.5 samples/s]      
+2024-12-13 08:55:35 Mistakenness computation complete
+2024-12-13 11:25:29 Launching FifyOne app in browser
+2024-12-13 11:25:29 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-13 11:25:29 Dataset:          202412111425
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-13 11:30:51 annotate using CVAT
+2024-12-13 11:30:51    launching CVAT with anno_key="cvat202412130900" and label_field="ground_truth"
+2024-12-13 11:30:51 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-13 11:30:51 Uploading samples to CVAT...
+2024-12-13 11:30:53 Launching editor at 'http://localhost:8080/tasks/15/jobs/15'...
+2024-12-13 11:35:57 annotate using CVAT
+2024-12-13 11:35:57    launching CVAT with anno_key="cvat202412130900" and label_field="ground_truth"
+2024-12-13 11:35:57 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-13 11:38:37 Updating "requirements.txt"
+2024-12-13 11:38:46 annotate using CVAT
+2024-12-13 11:38:46    launching CVAT with anno_key="cvat202412130900" and label_field="ground_truth"
+2024-12-13 11:38:46 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-13 11:38:46 Uploading samples to CVAT...
+2024-12-13 11:38:48 Launching editor at 'http://localhost:8080/tasks/16/jobs/16'...
+2024-12-13 11:45:13 creating mistake_view
+2024-12-13 11:45:13    saving mistake_view
+2024-12-13 11:47:53 Updating "requirements.txt"
+2024-12-13 11:47:58 creating mistake_view
+2024-12-13 11:47:58    saving mistake_view
+2024-12-13 11:47:58    loading mistake_view
+2024-12-13 11:55:25 annotate using CVAT
+2024-12-13 12:05:50 Updating "requirements.txt"
+2024-12-13 12:05:57 Launching FifyOne app in browser
+2024-12-13 12:06:01 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-13 12:06:01 Dataset:          202412111425
+Media type:       image
+Num samples:      6822
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-13 12:06:48 annotate using CVAT
+2024-12-13 12:06:48    launching CVAT with anno_key="cvat202412131201" and label_field="ground_truth"
+2024-12-13 12:06:48 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-13 12:06:49 Uploading samples to CVAT...
+2024-12-13 12:06:50 Launching editor at 'http://localhost:8080/tasks/17/jobs/17'...
+2024-12-13 14:29:44 merging CVAT annotations
+2024-12-13 14:29:44     anno_key=cvat202412131201
+2024-12-13 14:29:44    before merge: {'vcut': 3530, 'dead': 16, 'live': 9804}
+2024-12-13 14:29:44 Downloading labels from CVAT...
+2024-12-13 14:29:45 Download complete
+2024-12-13 14:29:45 Loading labels for field 'ground_truth'...
+2024-12-13 14:29:45  100% |███████████████████| 87/87 [149.0ms elapsed, 0s remaining, 584.0 samples/s]     
+2024-12-13 14:29:45    after merge: {'live': 9874, 'dead': 18, 'vcut': 3491}
+2024-12-13 14:31:28 Executing export_51_to_yolo() with the following parameters:
+2024-12-13 14:31:28    dataset_name=202412111425
+2024-12-13 14:31:28    export_dir=/home/aubrey/crb_damage_detector_data/datasets/202412131431
+2024-12-13 14:31:28    remove_unannotated=True
+2024-12-13 14:31:36  100% |███████████████| 6176/6176 [7.6s elapsed, 0s remaining, 898.5 samples/s]       
+2024-12-13 14:31:36 Directory '/home/aubrey/crb_damage_detector_data/datasets/202412131431' already exists; export will be merged with existing files
+2024-12-13 14:31:37  100% |█████████████████| 646/646 [759.8ms elapsed, 0s remaining, 850.2 samples/s]      
+2024-12-13 14:31:52 Executing train_model() with the following parameter:
+2024-12-13 14:31:52    yaml_path=/home/aubrey/crb_damage_detector_data/datasets/202412131431/dataset.yaml
+2024-12-13 14:37:42 Updating "requirements.txt"
+2024-12-13 14:38:07 Executing train_model() with the following parameter:
+2024-12-13 14:38:07    yaml_path=/home/aubrey/crb_damage_detector_data/datasets/202412131431/dataset.yaml
+2024-12-13 21:50:33    finished training
