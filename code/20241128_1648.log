@@ -855,3 +855,98 @@ Session URL:      http://localhost:5151/
 2024-12-13 14:38:07 Executing train_model() with the following parameter:
 2024-12-13 14:38:07    yaml_path=/home/aubrey/crb_damage_detector_data/datasets/202412131431/dataset.yaml
 2024-12-13 21:50:33    finished training
+2024-12-14 09:19:36 Updating "requirements.txt"
+2024-12-14 09:25:05 Updating "requirements.txt"
+2024-12-14 09:54:15 Updating "requirements.txt"
+2024-12-14 09:55:12 Executing yolo2fiftyone() with the following parameters:
+2024-12-14 09:55:12    name=202412140955
+2024-12-14 09:55:12    dataset_dir=/home/aubrey/crb_damage_detector_data/datasets/202412131431
+2024-12-14 09:55:12    splits=["train", "val"])
+2024-12-14 09:55:20  100% |███████████████| 6163/6163 [5.5s elapsed, 0s remaining, 1.1K samples/s]       
+2024-12-14 09:55:20  100% |█████████████████| 644/644 [529.9ms elapsed, 0s remaining, 1.2K samples/s]      
+2024-12-14 09:56:33 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-14 09:58:10 Updating "requirements.txt"
+2024-12-14 09:58:18 Executing yolo2fiftyone() with the following parameters:
+2024-12-14 09:58:18    name=202412140958
+2024-12-14 09:58:18    dataset_dir=/home/aubrey/crb_damage_detector_data/datasets/202412131431
+2024-12-14 09:58:18    splits=["train", "val"])
+2024-12-14 09:58:24  100% |███████████████| 6163/6163 [5.0s elapsed, 0s remaining, 1.3K samples/s]      
+2024-12-14 09:58:25  100% |█████████████████| 644/644 [474.4ms elapsed, 0s remaining, 1.4K samples/s]      
+2024-12-14 09:58:45 Launching FifyOne app in browser
+2024-12-14 09:58:47 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-14 09:58:47 Dataset:          202412140958
+Media type:       image
+Num samples:      6807
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-14 09:59:18 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-14 10:05:37 Updating "requirements.txt"
+2024-12-14 10:05:46 Executing yolo2fiftyone() with the following parameters:
+2024-12-14 10:05:46    name=202412141005
+2024-12-14 10:05:46    dataset_dir=/home/aubrey/crb_damage_detector_data/datasets/202412131431
+2024-12-14 10:05:46    splits=["train", "val"])
+2024-12-14 10:05:53  100% |███████████████| 6163/6163 [5.0s elapsed, 0s remaining, 1.3K samples/s]      
+2024-12-14 10:05:54  100% |█████████████████| 644/644 [483.0ms elapsed, 0s remaining, 1.3K samples/s]      
+2024-12-14 10:05:58 Launching FifyOne app in browser
+2024-12-14 10:06:01 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-14 10:06:01 Dataset:          202412141005
+Media type:       image
+Num samples:      6807
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-14 10:06:31 Adding YOLO predictions as "yolo" label field
+2024-12-14 10:15:24  100% |███████████████| 6807/6807 [8.9m elapsed, 0s remaining, 12.7 samples/s]      
+2024-12-14 10:17:58 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-14 10:17:58 Evaluating detections...
+2024-12-14 10:18:16  100% |███████████████| 6807/6807 [17.5s elapsed, 0s remaining, 433.3 samples/s]      
+2024-12-14 10:18:16 Computing mistakenness...
+2024-12-14 10:18:34  100% |███████████████| 6807/6807 [18.0s elapsed, 0s remaining, 399.3 samples/s]      
+2024-12-14 10:18:34 Mistakenness computation complete
+2024-12-14 12:54:01 Updating "requirements.txt"
+2024-12-14 12:54:11 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-14 12:54:12 Evaluating detections...
+2024-12-14 12:54:27  100% |███████████████| 6807/6807 [15.7s elapsed, 0s remaining, 459.5 samples/s]      
+2024-12-14 12:54:27 Computing mistakenness...
+2024-12-14 12:54:42  100% |███████████████| 6807/6807 [14.6s elapsed, 0s remaining, 504.5 samples/s]      
+2024-12-14 12:54:42 Mistakenness computation complete
+2024-12-17 15:53:47 Updating "requirements.txt"
+2024-12-17 15:53:58 Launching FifyOne app in browser
+2024-12-17 15:54:02 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-17 15:54:02 Dataset:          202412141005
+Media type:       image
+Num samples:      6807
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-18 07:08:30 Updating "requirements.txt"
+2024-12-18 07:08:42 Launching FifyOne app in browser
+2024-12-18 07:08:46 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-18 07:08:46 Dataset:          202412141005
+Media type:       image
+Num samples:      6807
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-18 07:10:02 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-18 07:10:03 Evaluating detections...
+2024-12-18 07:10:20  100% |███████████████| 6807/6807 [17.3s elapsed, 0s remaining, 427.3 samples/s]      
+2024-12-18 07:10:20 Computing mistakenness...
+2024-12-18 07:10:38  100% |███████████████| 6807/6807 [17.7s elapsed, 0s remaining, 406.4 samples/s]      
+2024-12-18 07:10:38 Mistakenness computation complete
+2024-12-18 07:13:49 Updating "requirements.txt"
+2024-12-18 07:14:13 Launching FifyOne app in browser
+2024-12-18 07:14:13 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-18 07:14:13 Dataset:          202412141005
+Media type:       image
+Num samples:      6807
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-18 07:15:21 Adding "mistakenness", "possible_missing" and "possible_spurious" fields
+2024-12-18 07:15:22 Evaluating detections...
+2024-12-18 07:15:39  100% |███████████████| 6807/6807 [17.3s elapsed, 0s remaining, 427.2 samples/s]      
+2024-12-18 07:15:39 Computing mistakenness...
+2024-12-18 07:15:56  100% |███████████████| 6807/6807 [17.4s elapsed, 0s remaining, 418.8 samples/s]      
+2024-12-18 07:15:57 Mistakenness computation complete
