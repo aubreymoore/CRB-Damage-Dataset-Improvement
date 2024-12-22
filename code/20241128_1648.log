@@ -959,3 +959,21 @@ Num samples:      6807
 Selected samples: 0
 Selected labels:  0
 Session URL:      http://localhost:5151/
+2024-12-22 10:58:11 Updating "requirements.txt"
+2024-12-22 10:58:41 Launching FifyOne app in browser
+2024-12-22 10:58:46 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-22 10:58:46 Dataset:          202412141005
+Media type:       image
+Num samples:      6807
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-22 13:55:24 Updating "requirements.txt"
+2024-12-22 13:55:31 Launching FifyOne app in browser
+2024-12-22 13:55:35 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-22 13:55:35 Dataset:          202412141005
+Media type:       image
+Num samples:      6807
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
