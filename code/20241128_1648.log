@@ -977,3 +977,48 @@ Num samples:      6807
 Selected samples: 0
 Selected labels:  0
 Session URL:      http://localhost:5151/
+2024-12-23 12:25:28 executing detect_missing_ground_truth() with confidence_threshold=0.85, iou_threshold=0.5
+2024-12-23 12:26:01 executing detect_missing_ground_truth() with confidence_threshold=0.85, iou_threshold=0.5
+2024-12-23 12:26:09     tagged 1450 YOLO detections with "gt_missing"
+2024-12-23 12:27:18 executing detect_missing_ground_truth() with confidence_threshold=0.9, iou_threshold=0.5
+2024-12-23 12:27:26     tagged 31 YOLO detections with "gt_missing"
+2024-12-23 12:29:59 executing detect_missing_ground_truth() with confidence_threshold=0.9, iou_threshold=0.5
+2024-12-23 12:30:06     tagged 31 YOLO detections with "gt_missing"
+2024-12-23 12:36:40 Updating "requirements.txt"
+2024-12-23 12:38:02 Updating "requirements.txt"
+2024-12-23 12:38:24 Launching FifyOne app in browser
+2024-12-23 12:38:24 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-23 12:38:24 Dataset:          202412141005
+Media type:       image
+Num samples:      6807
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-23 12:54:38 executing detect_missing_ground_truth() with confidence_threshold=0.9, iou_threshold=0.5
+2024-12-23 13:55:05 Updating "requirements.txt"
+2024-12-23 13:55:14 Launching FifyOne app in browser
+2024-12-23 13:55:18 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-23 13:55:18 Dataset:          202412141005
+Media type:       image
+Num samples:      6807
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-23 13:58:36 executing detect_missing_ground_truth() with confidence_threshold=0.9, iou_threshold=0.5
+2024-12-23 14:00:57 Updating "requirements.txt"
+2024-12-23 14:01:03 Launching FifyOne app in browser
+2024-12-23 14:01:07 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-23 14:01:07 Dataset:          202412141005
+Media type:       image
+Num samples:      6807
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-23 14:01:20 executing detect_missing_ground_truth() with confidence_threshold=0.9, iou_threshold=0.5
+2024-12-23 14:01:28     tagged 31 YOLO detections with "gt_missing"
+2024-12-23 14:11:35 executing detect_missing_ground_truth() with confidence_threshold=0.9, iou_threshold=0.5
+2024-12-23 14:11:43     tagged 1 YOLO detections with "gt_missing"
+2024-12-23 14:13:35 executing detect_missing_ground_truth() with confidence_threshold=0.85, iou_threshold=0.5
+2024-12-23 14:13:43     tagged 57 YOLO detections with "gt_missing"
+2024-12-23 14:21:14 executing detect_missing_ground_truth() with confidence_threshold=0.8, iou_threshold=0.5
+2024-12-23 14:21:23     tagged 251 YOLO detections with "gt_missing"
