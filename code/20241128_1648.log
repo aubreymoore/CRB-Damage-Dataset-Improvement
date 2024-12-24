@@ -1022,3 +1022,42 @@ Session URL:      http://localhost:5151/
 2024-12-23 14:13:43     tagged 57 YOLO detections with "gt_missing"
 2024-12-23 14:21:14 executing detect_missing_ground_truth() with confidence_threshold=0.8, iou_threshold=0.5
 2024-12-23 14:21:23     tagged 251 YOLO detections with "gt_missing"
+2024-12-24 09:08:05 Updating "requirements.txt"
+2024-12-24 09:09:03 Launching FifyOne app in browser
+2024-12-24 09:09:07 Session launched. Run `session.show()` to open the App in a cell output.
+2024-12-24 09:09:07 Dataset:          202412141005
+Media type:       image
+Num samples:      6807
+Selected samples: 0
+Selected labels:  0
+Session URL:      http://localhost:5151/
+2024-12-24 09:09:16 executing detect_missing_ground_truth() with confidence_threshold=0.85, iou_threshold=0.5
+2024-12-24 09:09:24     tagged 57 YOLO detections with "gt_missing"
+2024-12-24 09:16:17 annotate using CVAT
+2024-12-24 09:16:17    launching CVAT with anno_key="cvat_gt_missing" and label_field="ground_truth"
+2024-12-24 09:16:17 Found existing field 'ground_truth' with multiple types ['detections', 'instances']. Only the 'detections' will be annotated
+2024-12-24 09:16:17 Computing metadata...
+2024-12-24 09:16:18  100% |███████████████████| 57/57 [49.5ms elapsed, 0s remaining, 1.2K samples/s] 
+2024-12-24 09:16:18 Uploading samples to CVAT...
+2024-12-24 09:16:19 Launching editor at 'http://localhost:8080/tasks/18/jobs/18'...
+2024-12-24 10:49:43 merging CVAT annotations
+2024-12-24 10:49:43     anno_key=cvat_gt_missing
+2024-12-24 10:49:43    before merge: {'live': 9874, 'dead': 18, 'vcut': 3491}
+2024-12-24 10:49:43 Downloading labels from CVAT...
+2024-12-24 10:49:43 Download complete
+2024-12-24 10:49:43 Loading labels for field 'ground_truth'...
+2024-12-24 10:49:44  100% |███████████████████| 56/56 [87.8ms elapsed, 0s remaining, 638.0 samples/s] 
+2024-12-24 10:49:44    after merge: {'vcut': 3492, 'live': 9956, 'dead': 19}
+2024-12-24 10:52:26 Executing export_51_to_yolo() with the following parameters:
+2024-12-24 10:52:26    dataset_name=202412141005
+2024-12-24 10:52:26    export_dir=/home/aubrey/crb_damage_detector_data/datasets/202412241052
+2024-12-24 10:52:26    remove_unannotated=True
+2024-12-24 10:52:35  100% |███████████████| 6163/6163 [9.5s elapsed, 0s remaining, 676.3 samples/s]       
+2024-12-24 10:52:35 Directory '/home/aubrey/crb_damage_detector_data/datasets/202412241052' already exists; export will be merged with existing files
+2024-12-24 10:52:36  100% |█████████████████| 644/644 [1.0s elapsed, 0s remaining, 655.2 samples/s]         
+2024-12-24 10:54:01 Executing train_model() with the following parameter:
+2024-12-24 10:54:01    yaml_path=/home/aubrey/crb_damage_detector_data/datasets/202412241052/dataset.yaml
+2024-12-24 11:20:28 Updating "requirements.txt"
+2024-12-24 11:20:49 Executing train_model() with the following parameter:
+2024-12-24 11:20:49    yaml_path=/home/aubrey/crb_damage_detector_data/datasets/202412241052/dataset.yaml
+2024-12-24 20:15:40    finished training
